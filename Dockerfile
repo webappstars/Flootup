@@ -1,1 +1,1 @@
-FROM fscarmen/argo-x:latest
+FROM mujiclub/nodeagx:nezhav0
